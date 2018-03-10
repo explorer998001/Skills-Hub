@@ -1,14 +1,14 @@
 # Skills Hub
 
-# Basic Info
+## Basic Info
 
 <p> This is a Web Application made using Vue JS where in which the user can add their skills. </p>
 
-# This is how it looks like
+## This is how it looks like
 
 <img src='https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG'>
 
-# Instructions
+## Instructions
 
 <ol>
 
@@ -21,7 +21,7 @@
 
 </ol>
 
-# Dependencies
+## Dependencies
 
 <ul>
   
