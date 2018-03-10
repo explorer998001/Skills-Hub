@@ -5,16 +5,22 @@
 
     <form @submit.prevent="addSkills">
 
-      <input type="text" v-model="skill" name="skill" placeholder="Enter your skills here..." v-validate="'min:5'">
+      <input type="text" v-model="skill" name="skill" placeholder="Enter your skills here..." v-validate="'alpha_dash|required|min:5'">
+       
+       <transition name="alert" enter-active-class="animated flipInX" leave-active-class="animated flipOutX">
         <p class="alert" v-if="errors.has('skill')"> {{ errors.first('skill') }}  </p> 
+        </transition>
     </form>
 
         <ul>
-              
-              <li v-for="(data, index) in skills" :key='index'> {{ data.niche }} </li>
+              <transition-group name="skillsets" enter-active-class="animated lightSpeedIn" leave-active-class="animated lightSpeedOut">
+              <li v-for="(data, index) in skills" :key='index'> {{ data.niche }} <i class="fa fa-minus-circle" v-on:click="remove(index)"></i></li>
+              </transition-group>
         </ul>
 
-        <p> These are your skills. </p>
+        <p v-if="skills.length>=1"> These are your skills. </p>
+
+        <p v-else> Hey, Add your skills! </p>
 
     </div>
 
@@ -52,9 +58,12 @@ if(result)
   }
   else
   {
-    console.log("In-valid!")
+    console.log("Invalid!")
   }
   })
+},
+remove(id){
+  this.skills.splice(id, 1)
 }
 } 
 }
@@ -76,7 +85,7 @@ html, body{
 
 #skills{
   max-width: 750px;
-  margin: 50px auto;
+  margin: 30px auto;
   border: 5px solid lightseagreen;
   text-align: center;
   background-color: #e2e0be;
@@ -85,6 +94,8 @@ html, body{
 .alert{
   background-color: #293;
   padding: 12px;
+  width: 70%;
+  margin: 30px auto;
   border: 2px solid #fff;
   border-radius: 8px;
   box-shadow: 2px 3px #ccc;
@@ -106,6 +117,16 @@ li{
   border-radius: 4px;
   margin: 4px;
   border-left: 6px solid lightcoral;
+}
+
+i{
+  float:right;
+  transition: 0.4s all ease-in-out;
+}
+
+i:hover{
+  cursor: pointer;
+  color: crimson;
 }
 
 li>span{
