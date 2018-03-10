@@ -17,7 +17,7 @@
 <li> Install the dependencies. </li>
 <li> Navigate to the cloned repository in your local machine. </li>
 <li> Run <code> yarn run serve </code> </li>
-<li> Navigate to localhost:8080 </li>
+<li> Navigate to <code> localhost:8080 </code> </li>
 
 </ol>
 
@@ -26,8 +26,9 @@
 <ul>
   
 <li> Node JS. </li>  
+<li> <code> npm install vue </code> </li>
 <li> Vue CLI <code> npm install -g @vue/cli </code> (Globally). </li>
-<li> Ve-Validate validator plugin for Vue JS. </li>
+<li> Vee-Validate validator plugin for Vue JS. </li>
 <li> vue-router package. </li>
 </ul>
 
