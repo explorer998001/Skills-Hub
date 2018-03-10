@@ -34,7 +34,7 @@
 ### Contributions are welcomed.
 
 
-# Vue JS
+<h1 align="center"> Vue JS </h1>
 
 
 
