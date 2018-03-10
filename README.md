@@ -6,7 +6,7 @@
 
 # This is how it looks like
 
-<img src='https://github.com/jamesgeorge007/skillsHub/assets/images'>
+<img src='https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG'>
 
 # Instructions
 
