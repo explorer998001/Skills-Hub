@@ -1,4 +1,4 @@
-# Skills-Hub
+<h1 align="center"> Skills-Hub </h1>
 
 ## Basic Info
 
