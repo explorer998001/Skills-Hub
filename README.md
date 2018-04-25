@@ -6,38 +6,32 @@
 
 ## This is how it looks like
 
-<img src='https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG'>
+![Screenshot](https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG)
 
 ## Instructions
 
-<ol>
-
-<li> Make sure that you have Git installed. </li>
-<li> Clone the repository. </li>
-<li> Install the dependencies. </li>
-<li> Navigate to the cloned repository in your local machine. </li>
-<li> Run <code> yarn run serve </code> </li>
-<li> Navigate to <code> localhost:8080 </code> </li>
-
-</ol>
+ 1. Make sure that you have Git installed.
+ 2. Clone the repository.
+ 3. Install the dependencies.
+ 4. Navigate to the cloned repository in your local machine.
+ 5. Run <code> yarn run serve </code>
+ 6. Navigate to ` ` ` localhost:8080 ` ` `
 
 ## Dependencies
-
-<ul>
   
-<li> Node JS. </li>  
-<li> <code> npm install vue </code> </li>
-<li> Vue CLI <code> npm install -g @vue/cli </code> (Globally). </li>
-<li> Vee-Validate validator plugin for Vue JS. </li>
-<li> vue-router package. </li>
-</ul>
+ * Node JS.   
+ * npm install vue.  
+ * Vue CLI. ` ` ` npm install -g @vue/cli ` ` ` 
+ * Vee-Validate validator plugin for Vue JS. 
+ * vue-router package. 
+
 
 ### Contributions are welcomed.
 
 
 <hr><hr><hr>
 
-<h1 align="center"> Vue JS </h1>
+## Vue JS 
 
 
 
