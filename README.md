@@ -2,20 +2,21 @@
 
 ## Basic Info
 
-<p> This is a Web Application made using Vue JS where in which the user can add their skills. </p>
-
-## This is how it looks like
-
-![Screenshot](https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG)
+This is a Web Application made using Vue JS where in which the user can add their skills. 
 
 ## Instructions
 
  1. Make sure that you have Git installed.
  2. Clone the repository.
- 3. Install the dependencies.
+ 3. Navigate to the project directory and install the dependencies. ` ` ` npm install ` ` `
  4. Navigate to the cloned repository in your local machine.
  5. Run <code> yarn run serve </code>
  6. Navigate to ` ` ` localhost:8080 ` ` `
+ 
+ 
+## This is how it looks like
+
+![Screenshot](https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG)
 
 ## Dependencies
   
