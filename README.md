@@ -1,4 +1,4 @@
-# Skills Hub
+# Skills-Hub
 
 ## Basic Info
 
@@ -31,7 +31,7 @@
 
 <hr><hr><hr>
 
-## Vue JS 
+<h1 align="center"> Vue JS </h1> 
 
 
 
