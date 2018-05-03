@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/issues) [![GitHub forks](https://img.shields.io/github/forks/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/network) [![GitHub stars](https://img.shields.io/github/stars/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/stargazers) [![GitHub license](https://img.shields.io/github/license/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/blob/master/LICENSE)
+
 <h1 align="center"> Skills-Hub </h1>
 
 ## Basic Info
