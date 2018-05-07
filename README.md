@@ -1,42 +1,40 @@
-# Skills Hub
+[![GitHub issues](https://img.shields.io/github/issues/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/issues) [![GitHub forks](https://img.shields.io/github/forks/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/network) [![GitHub stars](https://img.shields.io/github/stars/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/stargazers) [![GitHub license](https://img.shields.io/github/license/jamesgeorge007/Skills-Hub.svg)](https://github.com/jamesgeorge007/Skills-Hub/blob/master/LICENSE)
+
+<h1 align="center"> Skills-Hub </h1>
 
 ## Basic Info
 
-<p> This is a Web Application made using Vue JS where in which the user can add their skills. </p>
-
-## This is how it looks like
-
-<img src='https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG'>
+This is a Web Application made using Vue JS where in which the user can add their skills. 
 
 ## Instructions
 
-<ol>
+ 1. Make sure that you have Git installed.
+ 2. Clone the repository.
+ 3. Navigate to the project directory and install the dependencies. ` ` ` npm install ` ` `
+ 4. Navigate to the cloned repository in your local machine.
+ 5. Run <code> yarn run serve </code>
+ 6. Navigate to ` ` ` localhost:8080 ` ` `
+ 
+ 
+## This is how it looks like
 
-<li> Make sure that you have Git installed. </li>
-<li> Clone the repository. </li>
-<li> Install the dependencies. </li>
-<li> Navigate to the cloned repository in your local machine. </li>
-<li> Run <code> yarn run serve </code> </li>
-<li> Navigate to localhost:8080 </li>
-
-</ol>
+![Screenshot](https://github.com/jamesgeorge007/skillsHub/blob/master/assets/screenshots/one.JPG)
 
 ## Dependencies
-
-<ul>
   
-<li> Node JS. </li>  
-<li> Vue CLI <code> npm install -g @vue/cli </code> (Globally). </li>
-<li> Ve-Validate validator plugin for Vue JS. </li>
-<li> vue-router package. </li>
-</ul>
+ * Node JS.   
+ * npm install vue.  
+ * Vue CLI. ` ` ` npm install -g @vue/cli ` ` ` 
+ * Vee-Validate validator plugin for Vue JS. 
+ * vue-router package. 
+
 
 ### Contributions are welcomed.
 
 
 <hr><hr><hr>
 
-<h1 align="center"> Vue JS </h1>
+<h1 align="center"> Vue JS </h1> 
 
 
 
