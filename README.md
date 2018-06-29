@@ -28,7 +28,7 @@ This is a Web Application made using Vue JS where in which the user can add thei
  * vue-router package. 
 
 
-***Contributions are welcomed***.
+***Contributions are always welcome***.
 
 
 <hr><hr><hr>
