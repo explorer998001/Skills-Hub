@@ -22,14 +22,13 @@ This is a Web Application made using Vue JS where in which the user can add thei
 
 ## Dependencies
   
- * Node JS.   
- * npm install vue.  
+ * Node JS.    
  * Vue CLI. ` ` ` npm install -g @vue/cli ` ` ` 
  * Vee-Validate validator plugin for Vue JS. 
  * vue-router package. 
 
 
-### Contributions are welcomed.
+***Contributions are welcomed***.
 
 
 <hr><hr><hr>
